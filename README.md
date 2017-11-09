@@ -8,7 +8,7 @@ Lessons:
 
 - better code design, with audio.currentTime, transition & transitionend & transform
 
-- phrase tags such as <kbd>, better understanding of transition, =>, forEach, .addEventListener, and const
+- phrase tags such as kbd, better understanding of transition, =>, forEach, .addEventListener, and const
   
 The twist: to have users to play along some drum beats and they have to fast trying to catch up with "playing" keys, otherwise their scores are deducted each time a key isn't pressed on time. 
 
